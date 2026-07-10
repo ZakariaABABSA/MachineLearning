@@ -1,7 +1,7 @@
 🤖 ML In Basic Terms
 
 
-machine learning is the process of training a piece of softwar called "modele" to make usefull predections aor genrerate content from data
+machine learning is the process of training a piece of softwar called "modele" to make usefull predections or genrerate content from data
 
 
 
@@ -11,7 +11,7 @@ ML systems fall into one or more categories based on how they learn to make pred
 
 🎯 SuperVised Learning
 
-Supervised learning models can make predections after seeing lots of data with the correct answers ans then discovering the connection between the elements in the data that produce the correct answers , the most two use cases for supervised learning are regression and classification
+Supervised learning models can make predections after seeing lots of data with the correct answers and then discovering the connection between the elements in the data that produce the correct answers , the most two use cases for supervised learning are regression and classification
 
 📈 regression
 
