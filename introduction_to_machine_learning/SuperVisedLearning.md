@@ -1,4 +1,4 @@
->upervised learning uses labeled data to train models that predict outcomes for new, unseen data.
+>supervised learning uses labeled data to train models that predict outcomes for new, unseen data.
 
 >The training process involves feeding the model labeled examples, allowing it to learn the relationship between features and labels.
 
