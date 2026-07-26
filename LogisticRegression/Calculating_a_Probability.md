@@ -17,6 +17,7 @@ f(x) = 1 / (1 + e^-x)
 - `e` = Euler's number (~2.71828).
 - Shape: an "S" curve. As `x → +∞`, output approaches (but never touches) `1`. As `x → -∞`, output approaches (but never touches) `0`.
 - At `x = 0`, output is exactly `0.5`.
+![the segmoid function curve](images/sigmoidfunction.png)
 
 | Input (x) | Sigmoid output |
 |---|---|
